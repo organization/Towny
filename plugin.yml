@@ -1,0 +1,18 @@
+name: Towny
+main: Happysttim\Towny\Main
+version: Beta_0.0.1
+author: Happysttim
+api: [1.13.0,2.0.0]
+
+commands:
+ 마을설정:
+  permission: towny.command
+  description: 마을설정 명령어입니다!
+ 마을관리:
+  description: 마을관리 명령어입니다!
+ 마을:
+  description: 마을 명령어입니다!
+ 영입:
+  description: 영입합니다
+ 취소:
+  description: 취소합니다

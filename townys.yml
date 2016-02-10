@@ -1,0 +1,13 @@
+---
+Town Level: tw
+Max Count: 50
+Max Area: 20
+Max Villiger: 30
+Base KeepMoney: 500
+Base Scout: 50
+Create Town Money: 50000
+Tax Time: 1
+KeepMoney Time: 2
+IsCreate: true
+Town: []
+...
