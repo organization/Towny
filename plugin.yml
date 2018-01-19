@@ -2,7 +2,7 @@ name: Towny
 main: Happysttim\Towny\Main
 version: Beta_0.0.1
 author: Happysttim
-api: [1.13.0,2.0.0]
+api: [3.0.0-ALPHA10]
 
 commands:
  마을설정:
